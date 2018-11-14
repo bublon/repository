@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Hello
 {
-    class HelloWorld
+    class Хули
     {
        public static int Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
+            Console.WriteLine("Хули торащишься?!");
+            Console.ReadLine();
             return 0;
         }
     }
